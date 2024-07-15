@@ -1,5 +1,5 @@
 # UserInfo bot
-# GitHub: https://github.com/Kourva/UserInfoBot
+# GitHub: https://github.com/kozyol/UserInfoBot
 
 
 # Imports
