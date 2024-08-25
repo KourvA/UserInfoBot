@@ -20,7 +20,7 @@ UserInfo telegram bot to get your account info
 # Installation
 + clone 
 ```bash
-git clone https://github.com/kozyol/UserInfoBot && cd UserInfoBot
+git clone https://github.com/Kourva/UserInfoBot && cd UserInfoBot
 ```
 + requirements
 ```bash
